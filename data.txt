@@ -1,0 +1,9 @@
+Question
++ Correct answer.
+- Incorrect answer.
+
+Which statement(s) are true?
++ 1 < 2
+- Sqrt(2) is rational
++ The set of primes is infinite.
+- 2^(2^m) is always prime
